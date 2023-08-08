@@ -1,1 +1,1 @@
-# Linux-technology
+# 记录分享 Linux 相关的知识技能
